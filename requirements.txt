@@ -1,0 +1,11 @@
+# Dependencias detectadas para este proyecto
+# En macOS, instala dependencias del sistema si es necesario:
+#   brew install libsndfile portaudio
+
+Pillow
+pyautogui
+anthropic
+numpy
+sounddevice
+soundfile
+mlx-whisper
